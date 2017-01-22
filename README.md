@@ -1,6 +1,8 @@
-# KinectSkeleton
+# KinectBody
 
 This is a simple app that grabs data from the Xbox Kinect and draws it as a wireframe body model
+
+![Image](http://i.imgur.com/aPlOCcj.gif "Screenshot")
 
 ## How it works
 * Kinect must be connected before startup of app
